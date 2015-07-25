@@ -1,6 +1,6 @@
 library(imager)
 
-pluto <- load.image("Projects/RandomForestsSpaceExploration/nh-pluto-mountain-range.png")
+pluto <- load.image("nh-pluto-mountain-range.png")
 
 imager::display(pluto)
 
